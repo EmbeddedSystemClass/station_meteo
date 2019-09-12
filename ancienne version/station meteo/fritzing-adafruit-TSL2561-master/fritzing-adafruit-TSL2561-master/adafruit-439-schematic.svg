@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.2" baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" width="53.86px" height="45.35px" viewBox="0 0 53.86 45.35" xml:space="preserve">
+<g id="schematic">
+
+		<rect x="3.583" y="3.583" display="inline" fill="none" stroke="#000000" stroke-width="0.7087" stroke-miterlimit="10" width="46.5" height="28.583"/>
+
+		<line display="inline" fill="none" stroke="#000000" stroke-width="0.7087" stroke-miterlimit="10" x1="7.75" y1="32.167" x2="7.75" y2="41.917"/>
+
+		<line display="inline" fill="none" stroke="#000000" stroke-width="0.7087" stroke-miterlimit="10" x1="14.015" y1="32.167" x2="14.015" y2="41.917"/>
+
+		<line display="inline" fill="none" stroke="#000000" stroke-width="0.7087" stroke-miterlimit="10" x1="20.278" y1="32.167" x2="20.278" y2="41.917"/>
+
+		<line display="inline" fill="none" stroke="#000000" stroke-width="0.7087" stroke-miterlimit="10" x1="26.543" y1="32.167" x2="26.543" y2="41.917"/>
+
+		<line display="inline" fill="none" stroke="#000000" stroke-width="0.7087" stroke-miterlimit="10" x1="32.805" y1="32.166" x2="32.805" y2="41.916"/>
+
+		<line display="inline" fill="none" stroke="#000000" stroke-width="0.7087" stroke-miterlimit="10" x1="39.07" y1="32.166" x2="39.07" y2="41.916"/>
+
+		<line display="inline" fill="none" stroke="#000000" stroke-width="0.7087" stroke-miterlimit="10" x1="45.333" y1="32.166" x2="45.333" y2="41.916"/>
+	<text transform="matrix(0 1 -1 0 43.0703 19.5967)" display="inline" font-family="'OCRAStd'" font-size="4.9655">scl</text>
+	<text transform="matrix(0 1 -1 0 37.1113 19.5967)" display="inline" font-family="'OCRAStd'" font-size="4.9655">sda</text>
+	<text transform="matrix(0 1 -1 0 31.1533 19.5967)" display="inline" font-family="'OCRAStd'" font-size="4.9655">int</text>
+	<text transform="matrix(0 1 -1 0 25.1953 16.0215)" display="inline" font-family="'OCRAStd'" font-size="4.9655">addr</text>
+	<text transform="matrix(0 1 -1 0 19.2363 19.5967)" display="inline" font-family="'OCRAStd'" font-size="4.9655">3v3</text>
+	<text transform="matrix(0 1 -1 0 13.2778 19.5967)" display="inline" font-family="'OCRAStd'" font-size="4.9655">gnd</text>
+	<text transform="matrix(0 1 -1 0 7.3193 19.5967)" display="inline" font-family="'OCRAStd'" font-size="4.9655">vin</text>
+	<text transform="matrix(1 0 0 1 10.4375 11.9355)" display="inline" font-family="'OCRAStd'" font-size="6.3467">TSL2561</text>
+</g>
+</svg>
