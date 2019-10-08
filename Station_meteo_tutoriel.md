@@ -8,7 +8,7 @@ Une station météo qui fait remonter la température et la pression atmosphéri
 
 ## Paramétrer la station météo
 
-Rendez vous sur cette adresse pour avoir toutes les étapes : https://github.com/fablab02/station_meteo/blob/master/Station_meteo_tutoriel.pdf
+Rendez vous sur cette adresse pour avoir toutes les étapes : https://github.com/fablab02/station_meteo/blob/master/Station_meteo_tutoriel.pdf (cliquez sur download pour avoir le PDF avec les liens fonctionnels)
 
 
 
