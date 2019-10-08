@@ -8,14 +8,17 @@ Une station météo qui fait remonter la température et la pression atmosphéri
 
 ## Paramétrer la station météo
 
-Rendez vous sur cette adresse pour avoir toutes les étapes : 
+Rendez vous sur cette adresse pour avoir toutes les étapes : https://github.com/fablab02/station_meteo/blob/master/Station_meteo_tutoriel.pdf
+
+
 
 
 
 ## Tutoriel station météo
 
 1. Téléchargez et installez le logiciel Arduino (pour envoyer le code sur la carte) : https://www.arduino.cc/en/main/software
-2. Téléchargez le code de la station ici : 
+2. Téléchargez le code de la station ici : https://github.com/fablab02/station_meteo via le bouton "Clone or download" vous obtiendrez un fichier ZIP avec tous le projet.
+   ![Tuto G](images/Tuto G.png) 
 3. Décompressez le dossier sur votre bureau. Copiez le contenu du dossier "librairies" dans le dossier Documents\Arduino\libraries
 4. Copiez le dossier "station_meteo" dans le dossier Documents\Arduino
    Voila ce que vous devriez avoir dans Documents\Arduino : ![tuto 4](.\images\Tuto C.PNG)
